@@ -9,6 +9,12 @@
     width: 1200px;
 }
 
+ol,
+ul,
+li {
+    list-style: none;
+}
+
 .main {}
 
 .cards {
